@@ -1,12 +1,9 @@
 ##################
-Trust Wallet Support Number: Click Here To Know More
+Metamask Login | MetaMask Help Center Number
 ##################
 
 .. meta::
    :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
-
-
-Call Now : `+1-870-406-6577 <tel:+18704066577>`_
 
 =============================
 MetaMask Support Number Guide
