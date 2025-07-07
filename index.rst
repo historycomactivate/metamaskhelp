@@ -3,7 +3,7 @@ Metamask Login | MetaMask Help Center Number
 ##################
 
 .. meta::
-   :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
+   :msvalidate.01: B6EE421CD1D380A4016F1B0EE988CE90
 
 =============================
 MetaMask Support Number Guide
